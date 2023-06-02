@@ -1,0 +1,21 @@
+C:\Users\AldoA\source\repos\MetodoMinimoCuadrados\MetodoMinimoCuadrados\bin\Debug\MetodoMinimoCuadrados.exe.config
+C:\Users\AldoA\source\repos\MetodoMinimoCuadrados\MetodoMinimoCuadrados\bin\Debug\MetodoMinimoCuadrados.exe
+C:\Users\AldoA\source\repos\MetodoMinimoCuadrados\MetodoMinimoCuadrados\bin\Debug\MetodoMinimoCuadrados.pdb
+C:\Users\AldoA\source\repos\MetodoMinimoCuadrados\MetodoMinimoCuadrados\obj\Debug\MetodoMinimoCuadrados.csprojAssemblyReference.cache
+C:\Users\AldoA\source\repos\MetodoMinimoCuadrados\MetodoMinimoCuadrados\obj\Debug\MetodoMinimoCuadrados.Properties.Resources.resources
+C:\Users\AldoA\source\repos\MetodoMinimoCuadrados\MetodoMinimoCuadrados\obj\Debug\MetodoMinimoCuadrados.csproj.GenerateResource.cache
+C:\Users\AldoA\source\repos\MetodoMinimoCuadrados\MetodoMinimoCuadrados\obj\Debug\MetodoMinimoCuadrados.csproj.CoreCompileInputs.cache
+C:\Users\AldoA\source\repos\MetodoMinimoCuadrados\MetodoMinimoCuadrados\obj\Debug\MetodoMinimoCuadrados.exe
+C:\Users\AldoA\source\repos\MetodoMinimoCuadrados\MetodoMinimoCuadrados\obj\Debug\MetodoMinimoCuadrados.pdb
+C:\Users\AldoA\source\repos\MetodoMinimoCuadrados\MetodoMinimoCuadrados\obj\Debug\MetodoMinimoCuadrados.Form1.resources
+C:\Users\Lucia Pérez\Documents\REPOS\MetodoMinimoCuadrados\MetodoMinimoCuadrados\obj\Debug\MetodoMinimoCuadrados.exe
+C:\Users\Lucia Pérez\Documents\REPOS\MetodoMinimoCuadrados\MetodoMinimoCuadrados\obj\Debug\MetodoMinimoCuadrados.pdb
+C:\Users\Lucia Pérez\Documents\REPOS\MetodoMinimoCuadrados\MetodoMinimoCuadrados\bin\Debug\MetodoMinimoCuadrados.exe.config
+C:\Users\Lucia Pérez\Documents\REPOS\MetodoMinimoCuadrados\MetodoMinimoCuadrados\bin\Debug\MetodoMinimoCuadrados.exe
+C:\Users\Lucia Pérez\Documents\REPOS\MetodoMinimoCuadrados\MetodoMinimoCuadrados\bin\Debug\MetodoMinimoCuadrados.pdb
+C:\Users\Lucia Pérez\Documents\REPOS\MetodoMinimoCuadrados\MetodoMinimoCuadrados\obj\Debug\MetodoMinimoCuadrados.csproj.AssemblyReference.cache
+C:\Users\Lucia Pérez\Documents\REPOS\MetodoMinimoCuadrados\MetodoMinimoCuadrados\obj\Debug\MetodoMinimoCuadrados.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucia Pérez\Documents\REPOS\MetodoMinimoCuadrados\MetodoMinimoCuadrados\obj\Debug\MetodoMinimoCuadrados.Form1.resources
+C:\Users\Lucia Pérez\Documents\REPOS\MetodoMinimoCuadrados\MetodoMinimoCuadrados\obj\Debug\MetodoMinimoCuadrados.Properties.Resources.resources
+C:\Users\Lucia Pérez\Documents\REPOS\MetodoMinimoCuadrados\MetodoMinimoCuadrados\obj\Debug\MetodoMinimoCuadrados.csproj.GenerateResource.cache
+C:\Users\Lucia Pérez\Documents\REPOS\MetodoMinimoCuadrados\MetodoMinimoCuadrados\obj\Debug\MetodoMinimoCuadrados.csproj.CoreCompileInputs.cache
